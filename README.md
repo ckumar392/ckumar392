@@ -35,8 +35,8 @@ I'm deeply passionate about Software Development, iOS Application Development, C
 
 <!-- Custom Section: More Awesomeness -->
 ### 🌟 Highlighted Projects  
-- [**Project-Learn-to-Program**](link-to-project): A hands-on repository for beginner-friendly coding.  
-- [**iOS App Name**](link-to-project): Description of an iOS app you’ve developed.
+- [**Project-Learn-to-Program**](link-to-project):
+- [**iOS App Name**](link-to-project)
 
 ### More Awesomeness 🚀
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
