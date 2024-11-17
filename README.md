@@ -25,14 +25,12 @@ I'm deeply passionate about Software Development, iOS Application Development, C
 ### If you don't find me with my computer, I'll most likely be:
 1. Playing with cats 😽
 2. Grooving to music beats 🎵
-3. 
+   
 ### ⚡ My GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ckumar392&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ckumar392&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckumar392&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ckumar392&hide_border=true&theme=radical" />
 </p>
 
 <!-- Custom Section: More Awesomeness -->
