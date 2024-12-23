@@ -53,7 +53,7 @@ I'm deeply passionate about Software Development, iOS Application Development, C
   - [Coding Challenge 1](link-to-challenge-1): Description of Challenge 1
   - 
 ### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/c02kr)  
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)](https://github.com/ckumar392)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)  
 
