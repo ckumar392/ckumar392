@@ -153,11 +153,11 @@ graph TD
 
 <div align="center">
 
-<!-- Animated Trophies -->
-<img src="https://github-profile-trophy.vercel.app//?username=ckumar392&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<!-- Compact Trophies Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=ckumar392&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&rank=-C" width="80%"/>
 
-<!-- Animated Metrics -->
-<img src="https://metrics.lecoq.io/ckumar392?template=classic&config.timezone=Asia%2FKolkata&config.animated=true" width="100%"/>
+<!-- Compact Activity Summary -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ckumar392&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true&height=250" alt="Activity Summary" width="80%"/>
 
 </div>
 
@@ -186,19 +186,63 @@ graph TD
 
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Visitor Experience
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Visitor Analytics & Engagement
 
 <div align="center">
 
-<!-- Animated Visitor Counter -->
-<img src="https://visitcount.itsvg.in/api?id=ckumar392&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visit Count"/>
+<!-- Working Visitor Counters -->
+<img src="https://komarev.com/ghpvc/?username=ckumar392&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ckumar392?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 
-<!-- Interactive Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ckumar392/ckumar392/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ckumar392/ckumar392/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ckumar392/ckumar392/output/github-contribution-grid-snake.svg">
-</picture>
+<br><br>
+
+<!-- Working Activity Visualizations -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ckumar392&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+<br>
+
+<!-- Contribution Heatmap -->
+<img src="https://ghchart.rshah.org/f85d7f/ckumar392" alt="Contribution Heatmap" width="87%"/>
+
+<br><br>
+
+<!-- Interactive Stats Grid -->
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ckumar392&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ckumar392&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎮 GitHub Snake Game
+<div align="center">
+
+<!-- Snake Game Alternative using contribution pattern -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animation" width="100%"/>
+
+<!-- Custom message when snake doesn't load -->
+<details>
+<summary>🐍 Click to see my contribution snake!</summary>
+
+```ascii
+    🐍 Contribution Snake Coming Soon! 🐍
+    
+    Currently setting up the GitHub Action...
+    Meanwhile, check out my activity above! 
+    
+    ▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░
+    ░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+    ▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░
+```
+
+</details>
 
 </div>
 
