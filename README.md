@@ -38,10 +38,6 @@ I'm deeply passionate about Software Development, iOS Application Development, C
 - [**Project-Learn-to-Program**](link-to-project):
 - [**iOS App Name**](link-to-project)
 
-### More Awesomeness 🚀
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
-Description of Challenge 1
-  - 
 ### 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/c02kr)  
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)](https://github.com/ckumar392)  
