@@ -40,17 +40,7 @@ I'm deeply passionate about Software Development, iOS Application Development, C
 
 ### More Awesomeness 🚀
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=D18EF7&width=402&lines=STILL+WORKING+ON+THIS+!!)](https://git.io/typing-svg)
-- **Interactive Projects**: Check out some of my interactive projects in action:
-  - [Project 1](link-to-project-1): Description of project 1
-  - [Project 2](link-to-project-2): Description of project 2
-  
-- **Latest Blog Posts**: Dive into my latest blog posts where I share insights and experiences:
-  - [Blog Post 1](link-to-blog-post-1): Title of Blog Post 1
-  - [Blog Post 2](link-to-blog-post-2): Title of Blog Post 2
-  
-- **Hackathons & Challenges**: See my achievements and experiences from hackathons and coding challenges:
-  - [Hackathon 1](link-to-hackathon-1): Description of Hackathon 1
-  - [Coding Challenge 1](link-to-challenge-1): Description of Challenge 1
+Description of Challenge 1
   - 
 ### 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/c02kr)  
